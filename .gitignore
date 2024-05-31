@@ -2,3 +2,9 @@
 bin
 compiled
 \#*#
+Project.ede
+idea/
+.vscode/
+target/
+.spin/
+.env
